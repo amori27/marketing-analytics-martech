@@ -22,7 +22,7 @@ Production-ready marketing analytics platform for analyzing campaign performance
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/marketing-analytics-martech.git
+git clone https://github.com/amori27/marketing-analytics-martech.git
 cd marketing-analytics-martech
 pip install -r requirements.txt
 ```
