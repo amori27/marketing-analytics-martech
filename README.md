@@ -1,4 +1,6 @@
 # Marketing Analytics & MarTech
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Comprehensive marketing analytics toolkit featuring customer segmentation, A/B testing analysis, attribution modeling, and campaign performance tracking.
 
